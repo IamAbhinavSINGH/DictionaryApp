@@ -1,6 +1,6 @@
 # Dictionary App
 
-![App Screenshot](/screenshots/ss1.jpg)
+
 
 ## Overview
 
@@ -28,8 +28,8 @@ Dictionary App is an Android application that provides users with an efficient a
 
 ##  Screenshots
 
-![App Screenshot](/screenshots/ss1.jpg)
-![App Screenshot](/screenshots/ss2.jpg) 
+<img src="/screenshots/ss1.jpg" alt="App Screenshot" width="300">
+
 
 
 ##  Contributing
