@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:backgroundTint="@color/Pink"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="3dp"
+    android:layout_marginStart="3dp"
+    android:layout_marginBottom="7dp">
+
+    <TextView
+        android:id="@+id/tvAntonyms"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:textSize="14sp"
+        />
+
+</androidx.cardview.widget.CardView>
